@@ -2,7 +2,7 @@
 - 👀 I’m a Web Developer
 - 🌱 Learning new things everyday. 
 - 💞️ Have a project in mind? CONTACT ME! 
-- 📫 you can reach me at gauravatwork11@gmail.com
+- 📫 you can reach me at gauravsalian11@gmail.com
 
 <!---
 Gaurav-Salian/Gaurav-Salian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
